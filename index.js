@@ -35,7 +35,7 @@ app.get("/login",(req,res)=>{
 })   
 
 
-app.get("/route",(req,res)=>{
+app.get("/path",(req,res)=>{
 
 
     res.send("It is a login request");
