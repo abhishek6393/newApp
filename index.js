@@ -32,7 +32,16 @@ app.get("/login",(req,res)=>{
 
 
     res.send("It is a login request");
-})
+})   
+
+
+app.get("/route",(req,res)=>{
+
+
+    res.send("It is a login request");
+}) 
+
+
 
 
 
