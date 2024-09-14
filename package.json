@@ -1,0 +1,19 @@
+{
+  "name": "backend_chai",
+  "version": "1.0.0",
+  "description": "It is first backend app",
+  "main": "index.js",
+  "scripts": {
+
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "port"
+  ],
+  "author": "Abhishek Kumar Verma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
